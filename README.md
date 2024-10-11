@@ -1,4 +1,4 @@
-# qa_python_sprint_5
+# qa_python_sprint_5 
 
 1. test_1_registration - Тесты на Регистрацию
    1) test_successful_registration - успешная регистрация при вводе валидных данных: Имя, Email, Пароль
